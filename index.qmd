@@ -1,0 +1,24 @@
+---
+title: "website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+In this part, we will use quarto to display our project goals. In `index.qmd`, create an introduction where you will state:
+
+*In this project we aim to visualize the trends of the most frequently used babynames from 1880 to 2017 in the United States. We do this by:*
+
+-   *Understanding the different columns of the data set*
+
+-   *Find the top 10 most frequently used baby names in the data for:*
+
+    -   *girls*
+    -   *boys*
+
+![image_alt_text](https://live.staticflickr.com/3418/3728905329_4b47a1b5cc_b.jpg)
+
+```{r}
+1 + 1
+```
